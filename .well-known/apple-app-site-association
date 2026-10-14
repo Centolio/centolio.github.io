@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3CKPCDC2SC.com.craigm.Heydays"],
+        "components": [
+          { "/": "/heydays/get/*", "comment": "Shared memories: opens Heydays if installed" }
+        ]
+      }
+    ]
+  }
+}
